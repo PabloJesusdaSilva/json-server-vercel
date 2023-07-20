@@ -5,6 +5,12 @@
       "descricao": "Sapato Social New York", 
       "preco": "199.90",
       "imagem": "produto.webp"
+    }, 
+    {
+      "id": 2, 
+      "descricao": "Sapato Oxford New York", 
+      "preco": "399.90",
+      "imagem": "produto.webp"
     }
   ]
 }
